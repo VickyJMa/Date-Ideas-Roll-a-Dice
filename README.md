@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VickyJMa
+- 👋 Hi, I’m @VickyMa
 - 👀 I’m interested in Business Analysis, Data Science, Machine Learning, Anomaly Detection, and Data Visulization..
 - 💞️ I’m looking to collaborate on Machine learning projects..
 - 📫 How to reach me.. LinkedIn dm
